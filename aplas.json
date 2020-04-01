@@ -29,7 +29,6 @@
           "name": "INT-073",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
-          "sourceApplicationId": "herding_sync-up",
           "targetApplicationId": "next_data_science",
           "logical_server": "B2B",
           "status_color": "#00FF00",
@@ -48,7 +47,6 @@
           "name": "INT-505",
           "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
           "description": null,
-          "sourceApplicationId": "herding_sync-up",
           "targetApplicationId": "hyperlocal"
         },
         {
@@ -56,7 +54,6 @@
           "name": "INT-504",
           "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
           "description": null,
-          "sourceApplicationId": "herding_sync-up",
           "targetApplicationId": "visibility_agile"
         },
         {
@@ -64,7 +61,6 @@
           "name": "INT-502",
           "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
           "description": null,
-          "sourceApplicationId": "herding_sync-up",
           "targetApplicationId": "opela"
         },
         {
@@ -72,7 +68,6 @@
           "name": "INT-503",
           "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
           "description": null,
-          "sourceApplicationId": "herding_sync-up",
           "targetApplicationId": "hanging_front-end"
         }
       ]
