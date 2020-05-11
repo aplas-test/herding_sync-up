@@ -9,14 +9,13 @@
       "description": "Centralized encompassing focus group",
       "categoryId": "logistics",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "23",
       "vendor_phone": "+86 185 513 1454",
       "status_color": "#00FF00",
       "department": "Training",
       "hostedtype": "OnPremise",
       "deployment_date": "23/7/12",
-      "investment_number": "332",
+      "investment_number": 332,
       "type": "InHouseDev",
       "sme_email": "Jo.Talkington@memento.net.au",
       "investment_24m": "722",
@@ -25,11 +24,11 @@
       "support_cost": "367",
       "vendor_contact_name": "Tessie Folshom",
       "end_of_life": "20/10/19",
-      "months_to_renew_support": "22",
+      "months_to_renew_support": 22,
       "end_of_maintenance": "8/9/17",
       "integrations": [
         {
-          "assetId": "int-503",
+          "id": "int-503",
           "name": "INT-503",
           "shortName": null,
           "version": "1",
@@ -40,7 +39,7 @@
           "status": "standard"
         },
         {
-          "assetId": "int-504",
+          "id": "int-504",
           "name": "INT-504",
           "shortName": null,
           "version": "1",
@@ -51,7 +50,7 @@
           "status": "standard"
         },
         {
-          "assetId": "int-073",
+          "id": "int-073",
           "name": "INT-073",
           "shortName": null,
           "version": "6.49",
@@ -59,7 +58,6 @@
           "payload": "Layby Hierarchy Extract",
           "targetApplicationId": "next_data_science",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -72,7 +70,7 @@
           "golive_date": "19/4/04"
         },
         {
-          "assetId": "int-505",
+          "id": "int-505",
           "name": "INT-505",
           "shortName": null,
           "version": "1",
@@ -83,7 +81,7 @@
           "status": "standard"
         },
         {
-          "assetId": "int-502",
+          "id": "int-502",
           "name": "INT-502",
           "shortName": null,
           "version": "1",
